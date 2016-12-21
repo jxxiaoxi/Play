@@ -1,0 +1,17 @@
+# Android Studio
+*.iml
+.idea
+
+# Gradle cache
+.gradle
+
+/local.properties
+.DS_Store
+
+/build
+app/build
+libuvccamera/build
+libuvccamera/src/main/obj
+libuvccamera/src/main/jnibak
+libuvccamera/src/main/com/wztech
+
